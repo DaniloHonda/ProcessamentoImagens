@@ -1,3 +1,9 @@
+/*
+Turma  07P
+Danilo Yui Honda - 10419625
+Luis Felipe Basacchi Darre - 10419477
+Vitor Tibães Santos - 10418976
+*/
 #include <SDL3/SDL.h>
 #include <SDL3_image/SDL_image.h>
 #include <SDL3_ttf/SDL_ttf.h>
